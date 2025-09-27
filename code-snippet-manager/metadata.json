@@ -1,0 +1,5 @@
+{
+  "name": "Code Snippet Manager",
+  "description": "A modern web application for developers to save, organize, and search their favorite code snippets. Features include tagging, syntax highlighting, and a sleek dark mode interface.",
+  "requestFramePermissions": []
+}
